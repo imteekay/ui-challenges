@@ -1,5 +1,9 @@
 # UI Challenges
 
+## Challenges
+
+- [Pokemon Card](https://github.com/leandrotk/ui-challenges/tree/master/pokemon-card)
+
 ## Copying the template to create a new challenge
 
 ```bash
