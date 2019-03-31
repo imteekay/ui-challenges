@@ -1,5 +1,7 @@
 # UI Challenges
 
+UI Challenges is my training lab to practice and improve my HTML & CSS skills
+
 ## Challenges
 
 - [Pokemon Card](https://github.com/leandrotk/ui-challenges/tree/master/pokemon-card)
