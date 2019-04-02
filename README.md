@@ -4,7 +4,9 @@ UI Challenges is my training lab to practice and improve my HTML & CSS skills
 
 ## Challenges
 
-- [Pokemon Card](https://github.com/leandrotk/ui-challenges/tree/master/pokemon-card)
+| UI Challenge  | Solution  | Code  |
+|---|---|---|
+| [:question:](https://dribbble.com/shots/4619445-Charmeleon) | [:bulb:](https://leandrotk.github.io/ui-challenges/pokemon-card/index.html) | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/pokemon-card) |
 
 ## Copying the template to create a new challenge
 
