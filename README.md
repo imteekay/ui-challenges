@@ -4,11 +4,11 @@ UI Challenges is my training lab to practice and improve my HTML & CSS skills
 
 ## Challenges
 
-| UI Challenge                                                | Solution                                                                    | Code                                                                                        |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| [:question:](https://dribbble.com/shots/4619445-Charmeleon) | [:bulb:](https://leandrotk.github.io/ui-challenges/pokemon-card/index.html) | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/pokemon-card)           |
-| [:question:](https://css-tricks.com/css-only-carousel/)     | [:bulb:](https://leandrotk.github.io/ui-challenges/smooth-scrollable-list)  | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/smooth-scrollable-list) |
-| [:question:](https://www.youtube.com/watch?v=kQW-MXriUIU)   | [:bulb:](https://leandrotk.github.io/ui-challenges/read-more)               | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/read-more)              |
+| UI Challenge                                                        | Solution                                                                    | Code                                                                                        |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| [Pokemon Card](https://dribbble.com/shots/4619445-Charmeleon)       | [:bulb:](https://leandrotk.github.io/ui-challenges/pokemon-card/index.html) | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/pokemon-card)           |
+| [Smooth Scrollable List](https://css-tricks.com/css-only-carousel/) | [:bulb:](https://leandrotk.github.io/ui-challenges/smooth-scrollable-list)  | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/smooth-scrollable-list) |
+| [Read more content](https://www.youtube.com/watch?v=kQW-MXriUIU)    | [:bulb:](https://leandrotk.github.io/ui-challenges/read-more)               | [:computer:](https://github.com/leandrotk/ui-challenges/tree/master/read-more)              |
 
 ## Copying the template to create a new challenge
 
