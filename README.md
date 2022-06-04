@@ -21,3 +21,8 @@ mkdir pokemon && cp template/index.html pokemon && cp template/style.css pokemon
 ## Request a Challenge | Challenge me
 
 Feel free to send me new UI Challenges by [creating a new issue](https://github.com/imteekay/ui-challenges/issues/new) in this project.
+
+## License
+
+[MIT](/license) © [TK](https://iamtk.co)
+
